@@ -1,0 +1,22 @@
+{
+  "name": "firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "firebase.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hardelzs/firebase.git"
+  },
+  "keywords": [
+    "firebase"
+  ],
+  "author": "Hardelze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hardelzs/firebase/issues"
+  },
+  "homepage": "https://github.com/Hardelzs/firebase#readme"
+}
